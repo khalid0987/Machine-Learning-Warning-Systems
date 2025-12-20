@@ -1,4 +1,6 @@
-# The Ethics of Warnings: How to Alert Without Controlling
+<p align="center">
+  <h1 align="center">The Ethics of Warnings: How to Alert Without Controlling</h1>
+    <p align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Article-Longform-111111?logo=readthedocs&logoColor=white" />
